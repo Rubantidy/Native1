@@ -5,7 +5,7 @@ import Footer from './components/Footer';
 
 const App = () => {
   const n1 = "Ruban";
-  const n2 = "Vicky";
+  const n2 = "Vigneshwaran";
   const handleruban = () => {
     ToastAndroid.show("Hello Ruban!, Welcome", ToastAndroid.SHORT);
   }
